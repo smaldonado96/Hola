@@ -1,4 +1,2 @@
-numero = [1,2,3]
-
-for n in nums:
-    print(n, n**2)
+a= pow(22,1/7)
+print(a)
